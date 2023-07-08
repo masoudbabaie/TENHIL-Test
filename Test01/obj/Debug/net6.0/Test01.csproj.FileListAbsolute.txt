@@ -1,0 +1,17 @@
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Test01.exe
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Test01.deps.json
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Test01.runtimeconfig.json
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Test01.dll
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Test01.pdb
+C:\Users\masoud.babaei\source\repos\Test01\Test01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.csproj.AssemblyReference.cache
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.AssemblyInfoInputs.cache
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.AssemblyInfo.cs
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.csproj.CoreCompileInputs.cache
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.csproj.CopyComplete
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.dll
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\refint\Test01.dll
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.pdb
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\Test01.genruntimeconfig.cache
+C:\Users\masoud.babaei\source\repos\Test01\Test01\obj\Debug\net6.0\ref\Test01.dll
